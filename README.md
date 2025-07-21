@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -67,3 +68,7 @@ export default tseslint.config([
   },
 ])
 ```
+=======
+# JSON-Schema-Builder
+A dynamic and interactive JSON schema builder built using ReactJS. This tool allows users to: Create and edit field names and types (String, Number, Nested, Array, etc.)
+>>>>>>> c48286c7c0311b1f943f26672ac23a94324d1363
